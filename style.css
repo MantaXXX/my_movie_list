@@ -1,0 +1,21 @@
+.viewMode {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  align-items: flex-end;
+  height: 40px;
+}
+
+#searchForm {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-title {
+  height: 30px;
+}
+
+.fa {
+  color: black;
+  cursor: pointer;
+}
